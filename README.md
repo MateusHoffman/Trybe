@@ -1,6 +1,6 @@
 # 💚💚 Trybe 💚💚
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Mateus Hoffman](https://www.linkedin.com/in/MateusHoffman/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por ***[Mateus Hoffman](https://www.linkedin.com/in/MateusHoffman/)*** enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
@@ -26,7 +26,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 02: HTML & CSS - Primeiros passos em CSS
 - [X] 03: HTML & CSS - Seletores e posicionamento
 - [X] 04: HTML Semântico
-- [X] 05: Projeto - Lessons Learned
+- [X] **[05: Projeto - Lessons Learned (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-01-Lessons-Learned/)**
 
 ##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 02: JavaScript - Array e loop For
 - [X] 03: JavaScript - Lógica de Programação e Algoritmos
 - [X] 04: JavaScript - Objetos e funções
-- [X] 05: Projeto - Playground Functions
+- [X] **[05: Projeto - Playground Functions (NOTA: 100%)](https://github.com/MateusHoffman/Trybe-Project-02-Playground-Functions)**
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
