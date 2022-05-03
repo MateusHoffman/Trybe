@@ -42,29 +42,47 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 01: JavaScript - DOM e seletores
 - [X] 02: JavaScript - Trabalhando com elementos
 - [X] 03: JavaScript - Eventos
-- [ ] 04: JavaScript - Web Storage
-- [ ] 05: Fundamentos - JavaScript - Projetos
-- [ ] 05: Projeto - Arte com Pixels
-- [ ] 06: Projeto - Lista de tarefas
+- [X] 04: JavaScript - Web Storage
+- [X] 05: Fundamentos - JavaScript - Projetos
+- [X] **[05: Projeto - Arte com Pixels (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-03-Pixels-Art/)**
+- [X] **[06: (Bônus) Projeto - Lista de tarefas (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-04-ToDo-List/)**
 - [ ] 07: (Bônus) Projeto - Meme Generator
 - [ ] 07: (Bônus) Projeto - Adivinhe a Cor
 - [ ] 07: (Bônus) Projeto - Carta Misteriosa
 
 ##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ] 
+- [X] 01: HTML & CSS - Forms
+- [X] 02: Bibliotecas JavaScript e Frameworks CSS
+- [X] 03: Introdução - CSS Flexbox
+- [X] 03: CSS Flexbox - Parte 1
+- [X] 04: CSS Flexbox - Parte 2
+- [ ] 05: CSS Responsivo - Mobile First
+- [ ] **[06: Projeto - Trybewarts (NOTA: -)]()**
 
 ##### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
-- [ ] 
+- [ ] 01: JavaScript ES6 - let, const, arrow functions e template literals
+- [ ] 02: JavaScript ES6 - Fluxo de exceção e Objetos
+- [ ] 03: Primeiros passos em Jest
+- [ ] **[04: Projeto - JavaScript Testes Unitários (NOTA: -)]()**
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
 
-- [ ] 
+- [ ] 01: JavaScript ES6 - Introdução a Higher Order Functions
+- [ ] 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 03: JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 04: JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [ ] 06: Projeto - Zoo functions
+- [ ] **[06: Projeto - Zoo functions (NOTA: -)]()**
 
 ##### Bloco 09: JavaScript e Testes Assíncronos
 
-- [ ] 
+- [ ] 01: JavaScript Assíncrono e Callbacks
+- [ ] 02: JavaScript Assíncrono - Fetch API e async/await
+- [ ] 03: Jest - Testes Assíncronos
+- [ ] **[04: Projeto - Carrinho de Compras (NOTA: -)]()**
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
