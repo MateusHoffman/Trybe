@@ -12,6 +12,7 @@ body {
 .header-container {
   background-color: #5C687C;
   display: flex;
+  flex-basis:268px;
 }
 
 .logo-container {
@@ -21,6 +22,7 @@ body {
 
 .menu-container {
   display: flex;
+  flex-basis: 500px;
 }
 
 .menu-container ul {
@@ -35,4 +37,89 @@ body {
   font-size: 1.3rem;
   list-style: none;
   margin-right: 10px;
+}
+
+/* .header-container .menu-container {
+  order: 2;
+}
+
+.header-container .logo-container{
+  order: 1;
+} */
+
+.header-container > *:nth-child(1) {
+  order: 2;
+}
+
+.header-container > *:nth-child(2) {
+  order: 1;
+}
+
+
+
+
+
+.menu-container {
+  flex-grow: 1;
+  align-items: center;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movie-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.movie-container h2 {
+  margin: 40px 0;
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card-container div {
+  align-items: center;
+  background-color: #5C687C;
+  border: black solid 1px;
+  display: flex;
+  height: 150px;
+  justify-content: center;
+  margin: 10px;
+}
+
+.aside-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  flex-basis: 350px;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.aside-container h3, h4 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.aside-container p {
+  margin: 10px 0;
+  text-align: justify;
+}
+
+.movie-container {
+  flex-basis: 700px;
+  flex-grow: 10;
+}
+
+.card-container > * {
+  flex-basis: 16%;
+  flex-grow: 1;
 }
