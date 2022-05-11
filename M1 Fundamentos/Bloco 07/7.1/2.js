@@ -29,6 +29,6 @@ console.log(createReport(allLessons, 'Maria Clara'))
   estudantes: 30
 } */
 
-function counterStudentsMath(lesson) {
-  const numberStudents = 
-}
+// function counterStudentsMath(lesson) {
+//   const numberStudents = 
+// }

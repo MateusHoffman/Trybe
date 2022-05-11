@@ -46,9 +46,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 05: Fundamentos - JavaScript - Projetos
 - [X] **[05: Projeto - Arte com Pixels (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-03-Pixels-Art/)**
 - [X] **[06: (Bônus) Projeto - Lista de tarefas (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-04-ToDo-List/)**
-- [ ] 07: (Bônus) Projeto - Meme Generator
-- [ ] 07: (Bônus) Projeto - Adivinhe a Cor
-- [ ] 07: (Bônus) Projeto - Carta Misteriosa
+- [X] **[07: (Bônus) Projeto - Adivinhe a Cor (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-05-Color-Guess/)**
+- [ ] **[07: (Bônus) Projeto - Meme Generator (NOTA: -)]()**
+- [ ] **[07: (Bônus) Projeto - Carta Misteriosa (NOTA: -)]()**
 
 ##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
@@ -57,13 +57,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 03: Introdução - CSS Flexbox
 - [X] 03: CSS Flexbox - Parte 1
 - [X] 04: CSS Flexbox - Parte 2
-- [ ] 05: CSS Responsivo - Mobile First
-- [ ] **[06: Projeto - Trybewarts (NOTA: -)]()**
+- [X] 05: CSS Responsivo - Mobile First
+- [X] **[06: Projeto - Trybewarts (NOTA: -)]()**
 
 ##### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
-- [ ] 01: JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 02: JavaScript ES6 - Fluxo de exceção e Objetos
+- [X] 01: JavaScript ES6 - let, const, arrow functions e template literals
+- [X] 02: JavaScript ES6 - Fluxo de exceção e Objetos
 - [ ] 03: Primeiros passos em Jest
 - [ ] **[04: Projeto - JavaScript Testes Unitários (NOTA: -)]()**
 
