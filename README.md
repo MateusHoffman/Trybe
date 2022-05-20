@@ -47,8 +47,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] **[05: Projeto - Arte com Pixels (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-03-Pixels-Art/)**
 - [X] **[06: (Bônus) Projeto - Lista de tarefas (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-04-ToDo-List/)**
 - [X] **[07: (Bônus) Projeto - Adivinhe a Cor (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-05-Color-Guess/)**
-- [ ] **[07: (Bônus) Projeto - Meme Generator (NOTA: -)]()**
-- [ ] **[07: (Bônus) Projeto - Carta Misteriosa (NOTA: -)]()**
+- [X] **[07: (Bônus) Projeto - Meme Generator (NOTA: -)]()**
+- [X] **[07: (Bônus) Projeto - Carta Misteriosa (NOTA: -)]()**
 
 ##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
@@ -64,17 +64,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 01: JavaScript ES6 - let, const, arrow functions e template literals
 - [X] 02: JavaScript ES6 - Fluxo de exceção e Objetos
-- [ ] 03: Primeiros passos em Jest
-- [ ] **[04: Projeto - JavaScript Testes Unitários (NOTA: -)]()**
+- [X] 03: Primeiros passos em Jest
+- [X] **[04: Projeto - JavaScript Testes Unitários (NOTA: -)]()**
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
 
-- [ ] 01: JavaScript ES6 - Introdução a Higher Order Functions
-- [ ] 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 03: JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 04: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 06: Projeto - Zoo functions
+- [X] 01: JavaScript ES6 - Introdução a Higher Order Functions
+- [X] 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [X] 03: JavaScript ES6 - Higher Order Functions - map e filter
+- [X] 04: JavaScript ES6 - Higher Order Functions - reduce
+- [X] 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [ ] **[06: Projeto - Zoo functions (NOTA: -)]()**
 
 ##### Bloco 09: JavaScript e Testes Assíncronos
