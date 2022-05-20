@@ -4,7 +4,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web (49 Dias) :white_check_mark:
 
 ##### Bloco 01: Unix & Bash
 
@@ -46,9 +46,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 05: Fundamentos - JavaScript - Projetos
 - [X] **[05: Projeto - Arte com Pixels (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-03-Pixels-Art/)**
 - [X] **[06: (Bônus) Projeto - Lista de tarefas (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-04-ToDo-List/)**
-- [X] **[07: (Bônus) Projeto - Adivinhe a Cor (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-05-Color-Guess/)**
-- [X] **[07: (Bônus) Projeto - Meme Generator (NOTA: -)]()**
-- [X] **[07: (Bônus) Projeto - Carta Misteriosa (NOTA: -)]()**
+- [X] **[06: (Bônus) Projeto - Adivinhe a Cor (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-05-Color-Guess/)**
+- [X] **[06: (Bônus) Projeto - Meme Generator (NOTA: -)]()**
+- [X] **[06: (Bônus) Projeto - Carta Misteriosa (NOTA: -)]()**
 
 ##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
@@ -83,7 +83,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 03: Jest - Testes Assíncronos
 - [ ] **[04: Projeto - Carrinho de Compras (NOTA: -)]()**
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end (67 Dias) :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
 
