@@ -8,84 +8,89 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 01: Unix & Bash
 
-- [X] 03: Fundamentos do Desenvolvimento Web
-- [x] 03: Introdução - Unix & Shell
-- [x] 03: Unix & Bash - Parte 1
-- [X] 04: Unix & Bash - Parte 2
+- ✔ 03: Fundamentos do Desenvolvimento Web
+- ✔ 03: Introdução - Unix & Shell
+- ✔ 03: Unix & Bash - Parte 1
+- ✔ 04: Unix & Bash - Parte 2
 
 ##### Bloco 02: Git, GitHub e Internet
 
-- [X] 01: Git & GitHub - O que é e para que serve
-- [X] 02: Git & GitHub - Entendendo os comandos
-- [X] 03: Internet - Entendendo como ela funciona
+- ✔ 01: Git & GitHub - O que é e para que serve
+- ✔ 02: Git & GitHub - Entendendo os comandos
+- ✔ 03: Internet - Entendendo como ela funciona
 
 ##### Bloco 03: Introdução à HTML e CSS
 
-- [X] 01: Introdução - HTML & CSS
-- [X] 01: HTML & CSS - Estruturas de página
-- [X] 02: HTML & CSS - Primeiros passos em CSS
-- [X] 03: HTML & CSS - Seletores e posicionamento
-- [X] 04: HTML Semântico
-- [X] **[05: Projeto - Lessons Learned (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-01-Lessons-Learned/)**
+- ✔ 01: Introdução - HTML & CSS
+- ✔ 01: HTML & CSS - Estruturas de página
+- ✔ 02: HTML & CSS - Primeiros passos em CSS
+- ✔ 03: HTML & CSS - Seletores e posicionamento
+- ✔ 04: HTML Semântico
+- ✔ **[05: Projeto - Lessons Learned (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-01-Lessons-Learned/)**
 
 ##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
-- [X] 01: Introdução - JavaScript
-- [X] 01: JavaScript - Primeiros passos
-- [X] 02: JavaScript - Array e loop For
-- [X] 03: JavaScript - Lógica de Programação e Algoritmos
-- [X] 04: JavaScript - Objetos e funções
-- [X] **[05: Projeto - Playground Functions (NOTA: 100%)](https://github.com/MateusHoffman/Trybe-Project-02-Playground-Functions)**
+- ✔ 01: Introdução - JavaScript
+- ✔ 01: JavaScript - Primeiros passos
+- ✔ 02: JavaScript - Array e loop For
+- ✔ 03: JavaScript - Lógica de Programação e Algoritmos
+- ✔ 04: JavaScript - Objetos e funções
+- ✔ **[05: Projeto - Playground Functions (NOTA: 100%)](https://github.com/MateusHoffman/Trybe-Project-02-Playground-Functions)**
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
-- [X] 01: JavaScript - DOM e seletores
-- [X] 02: JavaScript - Trabalhando com elementos
-- [X] 03: JavaScript - Eventos
-- [X] 04: JavaScript - Web Storage
-- [X] 05: Fundamentos - JavaScript - Projetos
-- [X] **[05: Projeto - Arte com Pixels (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-03-Pixels-Art/)**
-- [X] **[06: (Bônus) Projeto - Lista de tarefas (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-04-ToDo-List/)**
-- [X] **[06: (Bônus) Projeto - Adivinhe a Cor (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-05-Color-Guess/)**
-- [X] **[06: (Bônus) Projeto - Meme Generator (NOTA: -)]()**
-- [X] **[06: (Bônus) Projeto - Carta Misteriosa (NOTA: -)]()**
+- ✔ 01: JavaScript - DOM e seletores
+- ✔ 02: JavaScript - Trabalhando com elementos
+- ✔ 03: JavaScript - Eventos
+- ✔ 04: JavaScript - Web Storage
+- ✔ 05: Fundamentos - JavaScript - Projetos
+- ✔ **[05: Projeto - Arte com Pixels (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-03-Pixels-Art/)**
+- ✔ **[06: (Bônus) Projeto - Lista de tarefas (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-04-ToDo-List/)**
+- ✔ **[06: (Bônus) Projeto - Adivinhe a Cor (NOTA: 100%)](https://mateushoffman.github.io/Trybe-Project-05-Color-Guess/)**
+- ✔ **[06: (Bônus) Projeto - Meme Generator (NOTA: 100%)]()**
+- ✔ **[06: (Bônus) Projeto - Carta Misteriosa (NOTA: 100%)]()**
 
 ##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [X] 01: HTML & CSS - Forms
-- [X] 02: Bibliotecas JavaScript e Frameworks CSS
-- [X] 03: Introdução - CSS Flexbox
-- [X] 03: CSS Flexbox - Parte 1
-- [X] 04: CSS Flexbox - Parte 2
-- [X] 05: CSS Responsivo - Mobile First
-- [X] **[06: Projeto - Trybewarts (NOTA: -)]()**
+- ✔ 01: HTML & CSS - Forms
+- ✔ 02: Bibliotecas JavaScript e Frameworks CSS
+- ✔ 03: Introdução - CSS Flexbox
+- ✔ 03: CSS Flexbox - Parte 1
+- ✔ 04: CSS Flexbox - Parte 2
+- ✔ 05: CSS Responsivo - Mobile First
+- ✔ **[06: Projeto - Trybewarts (NOTA: 100%)]()**
 
 ##### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
-- [X] 01: JavaScript ES6 - let, const, arrow functions e template literals
-- [X] 02: JavaScript ES6 - Fluxo de exceção e Objetos
-- [X] 03: Primeiros passos em Jest
-- [X] **[04: Projeto - JavaScript Testes Unitários (NOTA: -)]()**
+- ✔ 01: JavaScript ES6 - let, const, arrow functions e template literals
+- ✔ 02: JavaScript ES6 - Fluxo de exceção e Objetos
+- ✔ 03: Primeiros passos em Jest
+- ✔ **[04: Projeto - JavaScript Testes Unitários (NOTA: 100%)]()**
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
 
-- [X] 01: JavaScript ES6 - Introdução a Higher Order Functions
-- [X] 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [X] 03: JavaScript ES6 - Higher Order Functions - map e filter
-- [X] 04: JavaScript ES6 - Higher Order Functions - reduce
-- [X] 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] **[06: Projeto - Zoo functions (NOTA: -)]()**
+- ✔ 01: JavaScript ES6 - Introdução a Higher Order Functions
+- ✔ 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- ✔ 03: JavaScript ES6 - Higher Order Functions - map e filter
+- ✔ 04: JavaScript ES6 - Higher Order Functions - reduce
+- ✔ 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- ✔ **[06: Projeto - Zoo functions (NOTA: -)]()**
+
+## Desenvolvimento Front-end (67 Dias) :hourglass_flowing_sand:
 
 ##### Bloco 09: JavaScript e Testes Assíncronos
 
-- [ ] 01: JavaScript Assíncrono e Callbacks
+- ✔ 01: Introdução - Front-end
+- ✔ 01: JavaScript Assíncrono e Callbacks
 - [ ] 02: JavaScript Assíncrono - Fetch API e async/await
 - [ ] 03: Jest - Testes Assíncronos
 - [ ] **[04: Projeto - Carrinho de Compras (NOTA: -)]()**
 
-## Desenvolvimento Front-end (67 Dias) :hourglass_flowing_sand:
+##### Bloco 10: Introdução - React
 
-##### Bloco 11: Introdução - React
+- [ ] 
+
+##### Bloco 11: React
 
 - [ ] 
 
@@ -93,31 +98,27 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 
 
-##### Bloco 13: React
+##### Bloco 13: Metodologias Ágeis
 
 - [ ] 
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 14: Testes em React
 
 - [ ] 
 
-##### Bloco 15: Testes em React
+##### Bloco 15: Introdução ao Redux
 
 - [ ] 
 
-##### Bloco 16: Introdução ao Redux
+##### Bloco 16: Projeto React
 
 - [ ] 
 
-##### Bloco 17: Projeto React
+##### Bloco 17: React & Context API
 
 - [ ] 
 
-##### Bloco 18: React & Context API
-
-- [ ] 
-
-##### Bloco 19: Projeto Final de Front-end
+##### Bloco 18: Projeto Final de Front-end
 
 - [ ] 
 
