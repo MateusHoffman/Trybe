@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.pokedex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 10px;
+
+}
+
+.card-pokemon {
+  /* border: 1px solid black; */
+  box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-info {
+  width: 60%;
+}
+
+.card-image {
+  width: 40%;
+}
