@@ -14,9 +14,10 @@
   /* border: 1px solid black; */
   box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.5);
   border-radius: 10px;
-  width: 250px;
+  width: 400px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .card-info {
@@ -25,4 +26,65 @@
 
 .card-image {
   width: 40%;
+}
+
+.btn-next-pokemon {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #000000;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.btn-next-pokemon span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.btn-next-pokemon span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.btn-next-pokemon:hover span {
+  padding-right: 25px;
+}
+
+.btn-next-pokemon:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.div-btn-types {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  padding: 30px;
+  gap: 20px;
+}
+
+.btn-types {
+  border-radius: 4px;
+  background-color: #000000;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  padding: 5px;
+  width: 90px;
+  transition: all 0.5s;
+  cursor: pointer;
 }
