@@ -82,83 +82,83 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - ✔ 01: Introdução - Front-end
 - ✔ 01: JavaScript Assíncrono e Callbacks
-- [ ] 02: JavaScript Assíncrono - Fetch API e async/await
-- [ ] 03: Jest - Testes Assíncronos
-- [ ] **[04: Projeto - Carrinho de Compras (NOTA: -)]()**
+- ✔ 02: JavaScript Assíncrono - Fetch API e async/await
+- ✔ 03: Jest - Testes Assíncronos
+- ✔ **[04: Projeto - Carrinho de Compras (NOTA: -)]()**
 
 ##### Bloco 10: Introdução - React
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 11: React
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 12: React
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 14: Testes em React
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 15: Introdução ao Redux
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 16: Projeto React
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 17: React & Context API
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 18: Projeto Final de Front-end
 
-- [ ] 
+- ✔ 
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 21: Bancos de dados relacionais
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 22: Bancos de dados relacionais
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 23: Introdução - NoSQL
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 24: Updates
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 25: Aggregation Framework
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 26: Intro - NodeJS
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 27: NodeJS
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 28: NodeJS
 
-- [ ] 
+- ✔ 
 
 ##### Bloco 29: NodeJS
 
